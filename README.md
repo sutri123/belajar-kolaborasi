@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-coba squash 3
+test squash 3
