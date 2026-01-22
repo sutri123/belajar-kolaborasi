@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-percobaan squash 2
+percobaan squash 3
